@@ -1,0 +1,15 @@
+D:\проги\Chronometer\МодульВведенияДанных\Chronometer\bin\Debug\Секундомер-хронометраж.exe.config
+D:\проги\Chronometer\МодульВведенияДанных\Chronometer\bin\Debug\Секундомер-хронометраж.exe
+D:\проги\Chronometer\МодульВведенияДанных\Chronometer\bin\Debug\Секундомер-хронометраж.pdb
+D:\проги\Chronometer\МодульВведенияДанных\Chronometer\bin\Debug\ru\Секундомер-хронометраж.resources.dll
+D:\проги\Chronometer\МодульВведенияДанных\Chronometer\obj\Debug\Chronometer.Form1.resources
+D:\проги\Chronometer\МодульВведенияДанных\Chronometer\obj\Debug\Chronometer.Properties.Resources.resources
+D:\проги\Chronometer\МодульВведенияДанных\Chronometer\obj\Debug\Chronometer.Results.resources
+D:\проги\Chronometer\МодульВведенияДанных\Chronometer\obj\Debug\Chronometer.Stopwatch.resources
+D:\проги\Chronometer\МодульВведенияДанных\Chronometer\obj\Debug\Chronometer.Stopwatch.ru.resources
+D:\проги\Chronometer\МодульВведенияДанных\Chronometer\obj\Debug\Секундомер-хронометраж.csproj.GenerateResource.cache
+D:\проги\Chronometer\МодульВведенияДанных\Chronometer\obj\Debug\Секундомер-хронометраж.csproj.CoreCompileInputs.cache
+D:\проги\Chronometer\МодульВведенияДанных\Chronometer\obj\Debug\ru\Секундомер-хронометраж.resources.dll
+D:\проги\Chronometer\МодульВведенияДанных\Chronometer\obj\Debug\Секундомер-хронометраж.exe
+D:\проги\Chronometer\МодульВведенияДанных\Chronometer\obj\Debug\Секундомер-хронометраж.pdb
+D:\проги\Chronometer\МодульВведенияДанных\Chronometer\obj\Debug\Секундомер-хронометраж.csprojAssemblyReference.cache

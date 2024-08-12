@@ -1,0 +1,14 @@
+D:\проги\Chronometer\МодульВведенияДанных\МодульПросмотраДанных\bin\Debug\Отчетность-хронометраж.exe.config
+D:\проги\Chronometer\МодульВведенияДанных\МодульПросмотраДанных\bin\Debug\Отчетность-хронометраж.exe
+D:\проги\Chronometer\МодульВведенияДанных\МодульПросмотраДанных\bin\Debug\Отчетность-хронометраж.pdb
+D:\проги\Chronometer\МодульВведенияДанных\МодульПросмотраДанных\obj\Debug\Отчетность-хронометраж.csprojAssemblyReference.cache
+D:\проги\Chronometer\МодульВведенияДанных\МодульПросмотраДанных\obj\Debug\МодульПросмотраДанных.Report.resources
+D:\проги\Chronometer\МодульВведенияДанных\МодульПросмотраДанных\obj\Debug\МодульПросмотраДанных.Properties.Resources.resources
+D:\проги\Chronometer\МодульВведенияДанных\МодульПросмотраДанных\obj\Debug\Отчетность-хронометраж.csproj.GenerateResource.cache
+D:\проги\Chronometer\МодульВведенияДанных\МодульПросмотраДанных\obj\Debug\Отчетность-хронометраж.csproj.CoreCompileInputs.cache
+D:\проги\Chronometer\МодульВведенияДанных\МодульПросмотраДанных\obj\Debug\Отчетность-хронометраж.exe
+D:\проги\Chronometer\МодульВведенияДанных\МодульПросмотраДанных\obj\Debug\Отчетность-хронометраж.pdb
+D:\проги\Chronometer\МодульВведенияДанных\МодульПросмотраДанных\obj\Debug\МодульПросмотраДанных.ListOperations.resources
+D:\проги\Chronometer\МодульВведенияДанных\МодульПросмотраДанных\obj\Debug\МодульПросмотраДанных.AddOperations.resources
+D:\проги\Chronometer\МодульВведенияДанных\МодульПросмотраДанных\obj\Debug\МодульПросмотраДанных.FilterByOperations.resources
+D:\проги\Chronometer\МодульВведенияДанных\МодульПросмотраДанных\obj\Debug\МодульПросмотраДанных.FilterByWorkers.resources
